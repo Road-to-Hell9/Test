@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5217df1-d633-47cb-8b99-d8ab71476a3e" name="Default Changelist" comment="First">
+      <change afterPath="$PROJECT_DIR$/../Item sammler/.vs/Item sammler/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/.vs/Item sammler/v16/Server/sqlite3/db.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/.vs/Item sammler/v16/Server/sqlite3/storage.ide" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Bluescreenofdeath.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/Form1.Designer.vb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/Form1.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/Form1.vb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/Item sammler.vbproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/My Project/Application.Designer.vb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/My Project/Application.myapp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/My Project/AssemblyInfo.vb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/My Project/Resources.Designer.vb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/My Project/Resources.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/My Project/Settings.Designer.vb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/My Project/Settings.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/bin/Debug/Item sammler.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/bin/Debug/Item sammler.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/bin/Debug/Item sammler.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/bin/Debug/Item sammler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/bin/Release/Item sammler.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/bin/Release/Item sammler.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/bin/Release/Item sammler.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/bin/Release/Item sammler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Debug/DesignTimeResolveAssemblyReferences.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Debug/Item sammler.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Debug/Item sammler.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Debug/Item sammler.vbproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Debug/Item sammler.vbproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Debug/Item sammler.vbproj.GenerateResource.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Debug/Item sammler.vbprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Debug/Item sammler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Debug/Item_sammler.Form1.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Debug/Item_sammler.Resources.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Debug/TempPE/My Project.Resources.Designer.vb.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Release/DesignTimeResolveAssemblyReferences.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Release/Item sammler.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Release/Item sammler.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Release/Item sammler.vbproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Release/Item sammler.vbproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Release/Item sammler.vbproj.GenerateResource.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Release/Item sammler.vbprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Release/Item sammler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Release/Item_sammler.Form1.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Release/Item_sammler.Resources.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Item sammler/obj/Release/TempPE/My Project.Resources.Designer.vb.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Neues Textdokument.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/Shutdown.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/WindowsXp_Logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/erro.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Item sammler/windows-Blue-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/.vs/Pong/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/.vs/Pong/v16/Server/sqlite3/db.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/.vs/Pong/v16/Server/sqlite3/storage.ide" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/Form1.Designer.vb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/Form1.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/Form1.vb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/My Project/Application.Designer.vb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/My Project/Application.myapp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/My Project/AssemblyInfo.vb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/My Project/Resources.Designer.vb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/My Project/Resources.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/My Project/Settings.Designer.vb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/My Project/Settings.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/Pong.vbproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/bin/Debug/Pong.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/bin/Debug/Pong.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/bin/Debug/Pong.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/bin/Debug/Pong.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/bin/Release/Pong.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/bin/Release/Pong.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/bin/Release/Pong.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/bin/Release/Pong.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Debug/DesignTimeResolveAssemblyReferences.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Debug/Pong.Form1.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Debug/Pong.Resources.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Debug/Pong.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Debug/Pong.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Debug/Pong.vbproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Debug/Pong.vbproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Debug/Pong.vbproj.GenerateResource.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Debug/Pong.vbprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Debug/Pong.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Debug/TempPE/My Project.Resources.Designer.vb.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Release/Pong.Form1.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Release/Pong.Resources.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Release/Pong.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Release/Pong.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Release/Pong.vbproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Release/Pong.vbproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Release/Pong.vbproj.GenerateResource.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Release/Pong.vbprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Release/Pong.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pong/Pong/obj/Release/TempPE/My Project.Resources.Designer.vb.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/.vs/Test 101/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/.vs/Test 101/v16/Server/sqlite3/db.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/.vs/Test 101/v16/Server/sqlite3/storage.ide" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Business-man-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Buttong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/Form1.Designer.vb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/Form1.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/Form1.vb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/My Project/Application.Designer.vb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/My Project/Application.myapp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/My Project/AssemblyInfo.vb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/My Project/Resources.Designer.vb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/My Project/Resources.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/My Project/Settings.Designer.vb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/My Project/Settings.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/Test 101.vbproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/bin/Debug/Test 101.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/bin/Debug/Test 101.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/bin/Debug/Test 101.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/bin/Debug/Test 101.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/obj/Debug/DesignTimeResolveAssemblyReferences.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/obj/Debug/TempPE/My Project.Resources.Designer.vb.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/obj/Debug/Test 101.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/obj/Debug/Test 101.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/obj/Debug/Test 101.vbproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/obj/Debug/Test 101.vbproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/obj/Debug/Test 101.vbproj.GenerateResource.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/obj/Debug/Test 101.vbprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/obj/Debug/Test 101.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/obj/Debug/Test_101.Form1.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Test 101/obj/Debug/Test_101.Resources.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/Upgrade-or-Not-Upgrade.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test 101/background-.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1gYLq0HD47plWlbLrzUvOiRBS7e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5217df1-d633-47cb-8b99-d8ab71476a3e" name="Default Changelist" comment="" />
+      <created>1598286766389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598286766389</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First">
+      <created>1598287404895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598287404895</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First">
+      <created>1598287449629</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598287449629</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First">
+      <created>1598287649864</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598287649864</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First" />
+    <option name="LAST_COMMIT_MESSAGE" value="First" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="996" y="272" key="FileChooserDialogImpl" timestamp="1598287778565">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="996" y="272" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1598287778565" />
+    <state x="809" y="264" key="Vcs.Push.Dialog.v2" timestamp="1598287655604">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="809" y="264" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1598287655604" />
+    <state x="1034" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598287391466">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1034" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1040@0.0.2560.1040" timestamp="1598287391466" />
+    <state x="599" y="151" key="new project wizard" timestamp="1598287786729">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="599" y="151" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1598287786729" />
+  </component>
+</project>
